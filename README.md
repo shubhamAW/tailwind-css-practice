@@ -19,7 +19,8 @@
 
 ## Basic footer
 <div>nov-12-22</div>
-![image](https://user-images.githubusercontent.com/66414385/201456502-d1e42c3e-c2e5-45ed-957e-3e9adce14269.png)
+<img width="330" alt="image" src="https://user-images.githubusercontent.com/66414385/201456694-954b7340-58bc-401e-9968-52d075b348f3.png">
+
 
 ## footer with logo
 <div>nov-12-22</div>
