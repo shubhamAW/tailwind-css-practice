@@ -25,3 +25,8 @@
 ## footer with logo
 <div>nov-12-22</div>
 <img width="330" alt="image" src="https://user-images.githubusercontent.com/66414385/201456512-cd2830a0-abcc-427e-97a3-ffe7dccd6d72.png">
+
+## Responsive Footer with Logo
+<div>nov-13-22</div>
+<a href="https://play.tailwindcss.com/RmGDquLQJx" target="_blank">code link </a>
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/66414385/201500175-1998c871-ed05-43ae-96ee-950e8d9f4538.png">
